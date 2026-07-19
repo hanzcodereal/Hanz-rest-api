@@ -105,7 +105,7 @@
         {
           "name": "Brat",
           "desc": "Generate Brat style image with text",
-          "path": "/canvas/brat?text="
+          "path": "/canvas/brat"
         }
       ]
     },
