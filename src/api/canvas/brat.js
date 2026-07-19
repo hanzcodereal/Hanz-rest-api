@@ -2,7 +2,7 @@ const axios = require('axios');
 
 module.exports = (app) => {
     app.get('/canvas/brat', async (req, res) => {
-        const text = req.query.text || req.body.text;
+        const text = req.query.text;
 
         if (!text) {
             return res.status(400).json({
