@@ -1,0 +1,133 @@
+{
+  "name": "Hanz Api's",
+  "version": "v1.0.0",
+  "favicon": "/src/icon.png",
+  "header": {
+    "status": "API PLATFORM",
+    "imageSrc": [
+      "https://u.pone.rs/jdlnwnhu.mp4"
+    ]
+  },
+  "apiSettings": {
+    "creator": "Hanz"
+  },
+  "visitors": 5122,
+  "links": [],
+  "categories": [
+    {
+      "name": "Search",
+      "items": [
+        {
+          "name": "YouTube",
+          "desc": "Video search from YouTube",
+          "path": "/search/youtube?query="
+        },
+        {
+          "name": "TikTok",
+          "desc": "TikTok video search",
+          "path": "/search/tiktok?query="
+        },
+        {
+          "name": "Pinterest",
+          "desc": "Pinterest image search",
+          "path": "/search/pinterest?query="
+        },
+        {
+          "name": "YouTube Music Search",
+          "desc": "Music search from YouTube Music",
+          "path": "/search/youtube-music?query="
+        }
+      ]
+    },
+    {
+      "name": "Download",
+      "items": [
+        {
+          "name": "AIO Downloader",
+          "desc": "All in one downloader (Support 50+ platforms)",
+          "path": "/download/aio?url="
+        },
+        {
+          "name": "Facebook",
+          "desc": "Download Facebook video",
+          "path": "/download/facebook?url="
+        },
+        {
+          "name": "Instagram",
+          "desc": "Download Instagram media",
+          "path": "/download/instagram?url="
+        },
+        {
+          "name": "TikTok",
+          "desc": "Download TikTok video",
+          "path": "/download/tiktok?url="
+        },
+        {
+          "name": "Spotify",
+          "desc": "Download Spotify music",
+          "path": "/download/spotify?url="
+        }
+      ]
+    },
+    {
+      "name": "Info",
+      "items": [
+        {
+          "name": "Cek Gempa",
+          "desc": "Get latest earthquake information from BMKG",
+          "path": "/info/cek-gempa"
+        },
+        {
+          "name": "Cek Cuaca",
+          "desc": "Get weather information by location",
+          "path": "/info/cek-cuaca?query="
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "items": [
+        {
+          "name": "Short URL",
+          "desc": "Shorten long URL using TinyURL",
+          "path": "/tools/shorturl?url="
+        },
+        {
+          "name": "Play YouTube",
+          "desc": "Get audio stream URL from YouTube",
+          "path": "/tools/play-youtube?url="
+        }
+      ]
+    },
+    {
+      "name": "Canvas",
+      "items": [
+        {
+          "name": "Brat",
+          "desc": "Generate Brat style image with text",
+          "path": "/canvas/brat?text="
+        }
+      ]
+    },
+    {
+      "name": "Random",
+      "items": [
+        {
+          "name": "Blue Archive",
+          "desc": "Blue Archive Random Images",
+          "path": "/random/ba"
+        },
+        {
+          "name": "Tokoh Quotes",
+          "desc": "Random quotes from famous figures",
+          "path": "/random/tokoh-quotes"
+        },
+        {
+          "name": "Anime Quotes",
+          "desc": "Random quotes from anime characters",
+          "path": "/random/anime-quotes"
+        }
+      ]
+    }
+  ]
+        }
