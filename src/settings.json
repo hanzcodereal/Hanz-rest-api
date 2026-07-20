@@ -33,8 +33,8 @@
           "path": "/search/pinterest?query="
         },
         {
-          "name": "YouTube Music Search",
-          "desc": "Music search from YouTube Music",
+          "name": "YouTube Music",
+          "desc": "Video search from YouTube Music",
           "path": "/search/youtube-music?query="
         }
       ]
