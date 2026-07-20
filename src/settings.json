@@ -103,9 +103,14 @@
       "name": "Canvas",
       "items": [
         {
-          "name": "Brat",
-          "desc": "Generate Brat style image with text",
-          "path": "/canvas/brat?text="
+          "name": "Brat HD",
+          "desc": "Generate Brat HD",
+          "path": "/canvas/brathd?text="
+        },
+        {
+          "name": "Brat Video HD",
+          "desc": "Generate Brat Video HD",
+          "path": "/canvas/bratvidhd?text="
         }
       ]
     },
