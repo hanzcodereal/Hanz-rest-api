@@ -119,7 +119,7 @@
         },
         {
           "name": "Reminder",
-          "desc": "Create a quote, can highlight certain words using [word]",
+          "desc": "Create quote with [word] highlight",
           "path": "/canvas/reminder?text=&author="
         }
       ]
@@ -141,8 +141,28 @@
           "name": "Anime Quotes",
           "desc": "Random quotes from anime characters",
           "path": "/random/anime-quotes"
+        },
+        {
+          "name": "Quotes Islam",
+          "desc": "Random Islamic quotes",
+          "path": "/random/quotes-islam"
+        },
+        {
+          "name": "Meme",
+          "desc": "Random meme images",
+          "path": "/random/meme"
+        },
+        {
+          "name": "Loli",
+          "desc": "Random loli anime images",
+          "path": "/random/loli"
+        },
+        {
+          "name": "Wallpaper",
+          "desc": "Random wallpaper images",
+          "path": "/random/wallpaper"
         }
       ]
     }
   ]
-    }
+        }
