@@ -121,6 +121,16 @@
           "name": "Reminder",
           "desc": "Create quote with [word] highlight",
           "path": "/canvas/reminder?text=&author="
+        },
+        {
+          "name": "IQC",
+          "desc": "Generate IQC",
+          "path": "/canvas/iqc?text=&provider=&jam=&baterai="
+        },
+        {
+          "name": "Emoji GIF",
+          "desc": "Convert emoji to animated GIF",
+          "path": "/canvas/emojigif?emoji="
         }
       ]
     },
