@@ -111,6 +111,16 @@
           "name": "Brat Video HD",
           "desc": "Generate Brat Video HD",
           "path": "/canvas/bratvidhd?text="
+        },
+        {
+          "name": "IQC Pink",
+          "desc": "Generate IQC Pink",
+          "path": "/canvas/iqc-pink?text=&time="
+        },
+        {
+          "name": "Reminder",
+          "desc": "Create a quote, can highlight certain words using [word]",
+          "path": "/canvas/reminder?text=&author="
         }
       ]
     },
@@ -135,4 +145,4 @@
       ]
     }
   ]
-        }
+    }
