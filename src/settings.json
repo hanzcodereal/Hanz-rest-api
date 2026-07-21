@@ -88,9 +88,14 @@
       "name": "Tools",
       "items": [
         {
-          "name": "Short URL",
-          "desc": "Shorten URL with TinyURL or IS.GD",
-          "path": "/tools/shorturl?url="
+          "name": "Short URL TinyURL",
+          "desc": "Shorten URL with TinyURL (custom optional)",
+          "path": "/tools/shorturl-tinyurl?url=&custom="
+        },
+        {
+          "name": "Short URL IS.GD",
+          "desc": "Shorten URL with IS.GD",
+          "path": "/tools/shorturl-isgd?url="
         },
         {
           "name": "Play YouTube",
@@ -153,7 +158,7 @@
           "path": "/random/anime-quotes"
         },
         {
-          "name": "Islam Quotes",
+          "name": "Quotes Islam",
           "desc": "Random Islamic quotes",
           "path": "/random/quotes-islam"
         },
