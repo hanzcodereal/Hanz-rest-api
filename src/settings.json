@@ -89,7 +89,7 @@
       "items": [
         {
           "name": "Short URL",
-          "desc": "Shorten long URL using TinyURL",
+          "desc": "Shorten URL with TinyURL or IS.GD",
           "path": "/tools/shorturl?url="
         },
         {
@@ -153,7 +153,7 @@
           "path": "/random/anime-quotes"
         },
         {
-          "name": "Quotes Islam",
+          "name": "Islam Quotes",
           "desc": "Random Islamic quotes",
           "path": "/random/quotes-islam"
         },
